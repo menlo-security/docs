@@ -2,9 +2,9 @@ import os, glob
 
 
 try:
-    os.rmdir('./7255-Documentation_Hub-html5/out')
-    os.rmdir('./7255-Documentation_Hub-html5')
-    os.remove('./7255-Documentation_Hub-html5_-Upload_to_GitHub.zip')
+    os.rmdir('./41857-Menlo_Security_Documentation_v0-html5_1642543602.4066/out')
+    os.rmdir('./41857-Menlo_Security_Documentation_v0-html5_1642543602.4066')
+    os.remove('./41857-Menlo_Security_Documentation_v0-html5_1642543602.4066.zip')
     print('Deleted unneeded sub-directories...')
     
 except:
